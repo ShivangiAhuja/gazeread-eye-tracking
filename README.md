@@ -79,8 +79,8 @@ Edit `eye_gaze_scroller.py` to adjust:
 ```python
 class Config:
     # Sensitivity
-    LOOK_UP_THRESHOLD = 0.35      # Lower = more sensitive up detection
-    LOOK_DOWN_THRESHOLD = 0.65    # Higher = more sensitive down detection
+    LOOK_UP_THRESHOLD = 0.699    # Lower = more sensitive up detection
+    LOOK_DOWN_THRESHOLD = 0.642    # Higher = more sensitive down detection
     
     # Timing
     SUSTAINED_GAZE_FRAMES = 30    # Frames to hold gaze (30 ≈ 1 second)
@@ -180,5 +180,6 @@ MIT License - Feel free to use and modify for educational purposes.
 For questions or issues: [Your Email]
 
 ---
+
 
 **Star this project if it helped your studies! 📚👁️**
