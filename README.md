@@ -4,12 +4,12 @@
 A hands-free PDF scrolling system using webcam-based eye tracking. Designed for students to maintain focus while studying without manual scrolling interruptions.
 
 ## Features
-- ✅ Real-time eye gaze detection using MediaPipe
-- ✅ Automatic scrolling based on sustained gaze direction
-- ✅ Double-blink pause/resume functionality
-- ✅ No special hardware required (just a webcam)
-- ✅ Personal calibration tool included
-- ✅ Smooth scrolling with accidental trigger prevention
+- Real-time eye gaze detection using MediaPipe
+- Automatic scrolling based on sustained gaze direction
+- Double-blink pause/resume functionality
+- No special hardware required (just a webcam)
+- Personal calibration tool included
+- Smooth scrolling with accidental trigger prevention
 
 ## System Requirements
 - Python 3.7+
@@ -183,3 +183,4 @@ For questions or issues: [Your Email]
 
 
 **Star this project if it helped your studies! 📚👁️**
+
