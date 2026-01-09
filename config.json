@@ -1,0 +1,23 @@
+{
+  "gaze_thresholds": {
+    "look_up": 0.35,
+    "look_down": 0.65
+  },
+  "timing": {
+    "sustained_gaze_frames": 30,
+    "smoothing_window": 5
+  },
+  "blink_detection": {
+    "ear_threshold": 0.21,
+    "blink_frames": 2,
+    "double_blink_window": 0.7
+  },
+  "scroll_settings": {
+    "scroll_amount": 3,
+    "scroll_cooldown": 0.1
+  },
+  "analytics": {
+    "enabled": true,
+    "save_directory": "analytics"
+  }
+}
