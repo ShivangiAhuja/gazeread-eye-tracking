@@ -18,8 +18,8 @@ from datetime import datetime
 # ============================================================================
 class Config:
     # Gaze thresholds
-    LOOK_UP_THRESHOLD = 0.35
-    LOOK_DOWN_THRESHOLD = 0.65
+    LOOK_UP_THRESHOLD = 0.699
+    LOOK_DOWN_THRESHOLD = 0.642
     
     # Timing
     SUSTAINED_GAZE_FRAMES = 30
@@ -515,4 +515,5 @@ def main():
         print("\n✓ System stopped. Thank you for using GazeRead!")
 
 if __name__ == "__main__":
+
     main()
