@@ -137,9 +137,9 @@ EyeGazeScroller/
 ```
 vertical_ratio = (iris_y - eye_top_y) / (eye_bottom_y - eye_top_y)
 
-- ratio < 0.35: Looking up
-- ratio > 0.65: Looking down
-- 0.35-0.65: Center (no scroll)
+- ratio < 0.699: Looking up
+- ratio > 0.642: Looking down
+- 0.642-0.669: Center (no scroll)
 ```
 
 ### Performance
@@ -164,9 +164,9 @@ vertical_ratio = (iris_y - eye_top_y) / (eye_bottom_y - eye_top_y)
 - [ ] Reading pattern analysis
 
 ## Author
-[Your Name]  
-[Your University/Institution]  
-[Date]
+Shivangi Ahuja 
+Bennett University 
+9 JAN 2026
 
 ## License
 MIT License - Feel free to use and modify for educational purposes.
@@ -176,11 +176,6 @@ MIT License - Feel free to use and modify for educational purposes.
 - OpenCV community for computer vision tools
 - Inspiration from accessibility technology research
 
-## Contact
-For questions or issues: [Your Email]
-
----
-
-
 **Star this project if it helped your studies! 📚👁️**
+
 
